@@ -1,5 +1,7 @@
 # MXNet Paris Workshop
 
+Code and notes from the AWS MXNet Paris Workshop 1 by Olivier Cruchant and Thomas Delteil.
+
 ![](support/logo.png)
 
 ### Agenda:
